@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/fatih/color"
-	"github.com/hokaccha/go-prettyjson"
+	"github.com/qjpcpu/go-prettyjson"
 )
 
 func Example() {

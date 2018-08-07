@@ -2,8 +2,9 @@
 package prettyjson
 
 import (
-	"encoding/json"
+	//"encoding/json"
 	"fmt"
+	"github.com/qjpcpu/go-prettyjson/json"
 	"sort"
 	"strconv"
 	"strings"

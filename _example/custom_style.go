@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/fatih/color"
-	"github.com/hokaccha/go-prettyjson"
+	"github.com/qjpcpu/go-prettyjson"
 )
 
 func main() {
